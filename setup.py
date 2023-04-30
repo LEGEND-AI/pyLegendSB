@@ -18,7 +18,7 @@ setup(
     description="This is a simple package which is used in Spam Bot",
     long_description = readme_contents,
     long_description_content_type="text/markdown",
-    url="https://github.com/LEGEND-AI/pyLegendBS",
+    url="https://github.com/LEGEND-AI/pyLegendSB",
     packages=find_packages(),
     license="GNU General Public License v3.0",
     include_package_data=True,
